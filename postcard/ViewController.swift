@@ -28,6 +28,9 @@ class ViewController: UIViewController {
 
     @IBAction func sendMailButtonPressed(sender: UIButton)
     {
+        // Changed ady
+        
+        
         messageLabel.text = "aaa\nbbbb"
         messageLabel.textColor = UIColor.redColor()
         messageLabel.hidden = false
